@@ -3,5 +3,10 @@
     "owner": "ini-alex",
     "repo": "web",
     "path": "db.json"
+  },
+  {
+    "owner": "ini-alex",
+    "repo": "data-bot",
+    "path": "db.json"
   }
 ]
